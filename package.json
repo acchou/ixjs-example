@@ -1,0 +1,21 @@
+{
+    "name": "ixproj",
+    "version": "1.0.0",
+    "description": "example project for ixjs",
+    "main": "main.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "",
+    "license": "ISC",
+    "engines": {
+        "node": ">=8.0.0"
+    },
+    "dependencies": {
+        "ix": "^2.3.5"
+    },
+    "devDependencies": {
+        "@types/node": "^8.5.1",
+        "typescript": "^2.6.2"
+    }
+}
